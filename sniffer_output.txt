@@ -1,0 +1,5 @@
+Starting network traffic analyzer...
+Press Ctrl+C to stop.
+Protocol: TCP | Source IP: 192.168.1.100:54321 -> Destination IP: 142.250.182.14:443
+Protocol: ICMP | Source IP: 192.168.1.100:N/A -> Destination IP: 8.8.8.8:N/A
+Protocol: UDP | Source IP: 192.168.1.100:5353 -> Destination IP: 224.0.0.251:5353
